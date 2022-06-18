@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.title {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  color: white;
+  width: 100%;
+  background-color: black;
+  height: 70px;
+}
+
+.titleH4 {
+  margin-top: 2px;
+}
+
+.titleH4:hover {
+  cursor: pointer;
+}
